@@ -1,3 +1,6 @@
 [submodule "careaway-app"]
 	path = careaway-app
 	url = git@github.com:19TT94/careaway-app.git
+[submodule "careaway-server"]
+	path = careaway-server
+	url = git@github.com:CrystalChun/careaway-server.git
